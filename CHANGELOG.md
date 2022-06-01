@@ -2,6 +2,10 @@
 
 Framer Motion adheres to [Semantic Versioning](http://semver.org/).
 
+### Fixed
+
+-   Providing path to types via `package.json`'s `exports` field to fix types in Typescript 4.7.
+
 ## [6.3.6] 2022-05-31
 
 ### Fixed
